@@ -219,7 +219,5 @@ __marimo__/
 
 # Kaggle competition artifacts
 data/*
-submissions/*
 *.zip
 !data/.gitkeep
-!submissions/.gitkeep
